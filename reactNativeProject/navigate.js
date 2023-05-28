@@ -3,6 +3,7 @@ import FullInfo from './components/FullInfo';
 
 import { createStackNavigator } from '@react-navigation/stack';
 import { NavigationContainer } from '@react-navigation/native';
+import Form from './components/Form';
 
 const Stack = createStackNavigator();
 
